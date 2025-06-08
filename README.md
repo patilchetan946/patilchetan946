@@ -79,7 +79,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/patilchetan946/patilchetan946/output/snake.svg" alt="Snake animation" />
-<img src="https://patilchetan946.github.io/patilchetan946/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
